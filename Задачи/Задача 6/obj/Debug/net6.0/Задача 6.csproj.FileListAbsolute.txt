@@ -1,0 +1,15 @@
+C:\Users\anastasiavar\Desktop\ДЗ\Задача\Задача 6\bin\Debug\net6.0\Задача 6.exe
+C:\Users\anastasiavar\Desktop\ДЗ\Задача\Задача 6\bin\Debug\net6.0\Задача 6.deps.json
+C:\Users\anastasiavar\Desktop\ДЗ\Задача\Задача 6\bin\Debug\net6.0\Задача 6.runtimeconfig.json
+C:\Users\anastasiavar\Desktop\ДЗ\Задача\Задача 6\bin\Debug\net6.0\Задача 6.dll
+C:\Users\anastasiavar\Desktop\ДЗ\Задача\Задача 6\bin\Debug\net6.0\Задача 6.pdb
+C:\Users\anastasiavar\Desktop\ДЗ\Задача\Задача 6\obj\Debug\net6.0\Задача 6.csproj.AssemblyReference.cache
+C:\Users\anastasiavar\Desktop\ДЗ\Задача\Задача 6\obj\Debug\net6.0\Задача 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anastasiavar\Desktop\ДЗ\Задача\Задача 6\obj\Debug\net6.0\Задача 6.AssemblyInfoInputs.cache
+C:\Users\anastasiavar\Desktop\ДЗ\Задача\Задача 6\obj\Debug\net6.0\Задача 6.AssemblyInfo.cs
+C:\Users\anastasiavar\Desktop\ДЗ\Задача\Задача 6\obj\Debug\net6.0\Задача 6.csproj.CoreCompileInputs.cache
+C:\Users\anastasiavar\Desktop\ДЗ\Задача\Задача 6\obj\Debug\net6.0\Задача 6.dll
+C:\Users\anastasiavar\Desktop\ДЗ\Задача\Задача 6\obj\Debug\net6.0\refint\Задача 6.dll
+C:\Users\anastasiavar\Desktop\ДЗ\Задача\Задача 6\obj\Debug\net6.0\Задача 6.pdb
+C:\Users\anastasiavar\Desktop\ДЗ\Задача\Задача 6\obj\Debug\net6.0\Задача 6.genruntimeconfig.cache
+C:\Users\anastasiavar\Desktop\ДЗ\Задача\Задача 6\obj\Debug\net6.0\ref\Задача 6.dll
