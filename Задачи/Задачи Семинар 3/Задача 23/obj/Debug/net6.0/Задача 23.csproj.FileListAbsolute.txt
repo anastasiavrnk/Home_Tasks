@@ -1,0 +1,15 @@
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 3\Задача 23\bin\Debug\net6.0\Задача 23.exe
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 3\Задача 23\bin\Debug\net6.0\Задача 23.deps.json
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 3\Задача 23\bin\Debug\net6.0\Задача 23.runtimeconfig.json
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 3\Задача 23\bin\Debug\net6.0\Задача 23.dll
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 3\Задача 23\bin\Debug\net6.0\Задача 23.pdb
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 3\Задача 23\obj\Debug\net6.0\Задача 23.csproj.AssemblyReference.cache
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 3\Задача 23\obj\Debug\net6.0\Задача 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 3\Задача 23\obj\Debug\net6.0\Задача 23.AssemblyInfoInputs.cache
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 3\Задача 23\obj\Debug\net6.0\Задача 23.AssemblyInfo.cs
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 3\Задача 23\obj\Debug\net6.0\Задача 23.csproj.CoreCompileInputs.cache
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 3\Задача 23\obj\Debug\net6.0\Задача 23.dll
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 3\Задача 23\obj\Debug\net6.0\refint\Задача 23.dll
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 3\Задача 23\obj\Debug\net6.0\Задача 23.pdb
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 3\Задача 23\obj\Debug\net6.0\Задача 23.genruntimeconfig.cache
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 3\Задача 23\obj\Debug\net6.0\ref\Задача 23.dll
