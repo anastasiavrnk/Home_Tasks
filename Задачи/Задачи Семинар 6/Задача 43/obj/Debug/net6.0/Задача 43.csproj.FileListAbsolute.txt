@@ -1,0 +1,15 @@
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 6\Задача 43\obj\Debug\net6.0\Задача 43.csproj.AssemblyReference.cache
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 6\Задача 43\obj\Debug\net6.0\Задача 43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 6\Задача 43\obj\Debug\net6.0\Задача 43.AssemblyInfoInputs.cache
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 6\Задача 43\obj\Debug\net6.0\Задача 43.AssemblyInfo.cs
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 6\Задача 43\obj\Debug\net6.0\Задача 43.csproj.CoreCompileInputs.cache
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 6\Задача 43\bin\Debug\net6.0\Задача 43.exe
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 6\Задача 43\bin\Debug\net6.0\Задача 43.deps.json
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 6\Задача 43\bin\Debug\net6.0\Задача 43.runtimeconfig.json
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 6\Задача 43\bin\Debug\net6.0\Задача 43.dll
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 6\Задача 43\bin\Debug\net6.0\Задача 43.pdb
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 6\Задача 43\obj\Debug\net6.0\Задача 43.dll
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 6\Задача 43\obj\Debug\net6.0\refint\Задача 43.dll
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 6\Задача 43\obj\Debug\net6.0\Задача 43.pdb
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 6\Задача 43\obj\Debug\net6.0\Задача 43.genruntimeconfig.cache
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 6\Задача 43\obj\Debug\net6.0\ref\Задача 43.dll
