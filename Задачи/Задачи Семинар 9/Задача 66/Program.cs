@@ -15,5 +15,5 @@ int SumOfNumbers(int M, int N)
     return sum;  
 }
 
-int result = SumOfNumbers(5, 0);
+int result = SumOfNumbers(1, 15);
 Console.WriteLine(result);
