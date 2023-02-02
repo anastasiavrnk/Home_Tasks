@@ -1,0 +1,15 @@
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 8\Задача 62\bin\Debug\net6.0\Задача 62.exe
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 8\Задача 62\bin\Debug\net6.0\Задача 62.deps.json
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 8\Задача 62\bin\Debug\net6.0\Задача 62.runtimeconfig.json
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 8\Задача 62\bin\Debug\net6.0\Задача 62.dll
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 8\Задача 62\bin\Debug\net6.0\Задача 62.pdb
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 8\Задача 62\obj\Debug\net6.0\Задача 62.csproj.AssemblyReference.cache
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 8\Задача 62\obj\Debug\net6.0\Задача 62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 8\Задача 62\obj\Debug\net6.0\Задача 62.AssemblyInfoInputs.cache
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 8\Задача 62\obj\Debug\net6.0\Задача 62.AssemblyInfo.cs
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 8\Задача 62\obj\Debug\net6.0\Задача 62.csproj.CoreCompileInputs.cache
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 8\Задача 62\obj\Debug\net6.0\Задача 62.dll
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 8\Задача 62\obj\Debug\net6.0\refint\Задача 62.dll
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 8\Задача 62\obj\Debug\net6.0\Задача 62.pdb
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 8\Задача 62\obj\Debug\net6.0\Задача 62.genruntimeconfig.cache
+C:\Users\anastasiavar\Desktop\GeekBrains\С#\ДЗ\Задачи\Задачи Семинар 8\Задача 62\obj\Debug\net6.0\ref\Задача 62.dll
